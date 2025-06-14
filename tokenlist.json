@@ -1,0 +1,17 @@
+{
+  "name": "CION Official List",
+  "logoURI": "https://github.com/psamp879/cion-token-list/blob/main/cion%20256.png?raw=true",
+  "keywords": ["cion"],
+  "timestamp": "2025-06-14T17:50:09+0000",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xEAb0DF9E9bd0fA4aD343A4b6345515747a6171B1",
+      "symbol": "CION",
+      "name": "CION",
+      "decimals": 18,
+      "logoURI": "https://github.com/psamp879/cion-token-list/blob/main/cion%20256.png?raw=true"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
